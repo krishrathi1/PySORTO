@@ -1,3 +1,4 @@
+import time 
 def bucketSort(data, drawData, timeTick):
     max_val = max(data)
     size = max_val/len(data)
