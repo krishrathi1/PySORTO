@@ -1,3 +1,4 @@
+import time 
 def insertionSort(data, drawData, timeTick):
     for i in range(1, len(data)):
         key = data[i]
