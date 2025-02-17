@@ -1,3 +1,4 @@
+import time 
 def quickSort(data, drawData, timeTick):
     quick_sort(data, 0, len(data) - 1, drawData, timeTick)
 
