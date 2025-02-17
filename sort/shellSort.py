@@ -1,3 +1,4 @@
+import time 
 def shellSort(data, drawData, timeTick):
     n = len(data)
     gap = n // 2
