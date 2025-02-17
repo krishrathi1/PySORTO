@@ -3,18 +3,18 @@ from tkinter import ttk
 import random
 import time
 
-from sorts.bubbleSort import bubbleSort
-from sorts.shellSort import shellSort
-from sorts.countingSort import countingSort
-from sorts.bucketSort import bucketSort
-from sorts.combSort import combSort
-from sorts.cocktailShakerSort import cocktailShakerSort
-from sorts.mergeSort import mergeSort
-from sorts.quickSort import quickSort
-from sorts.insertionSort import insertionSort
-from sorts.selectionSort import selectionSort
-from sorts.heapSort import heapSort
-from sorts.radixSort import radixSort
+from sort.bubbleSort import bubbleSort
+from sort.shellSort import shellSort
+from sort.countingSort import countingSort
+from sort.bucketSort import bucketSort
+from sort.combSort import combSort
+from sort.cocktailShakerSort import cocktailShakerSort
+from sort.mergeSort import mergeSort
+from sort.quickSort import quickSort
+from sort.insertionSort import insertionSort
+from sort.selectionSort import selectionSort
+from sort.heapSort import heapSort
+from sort.radixSort import radixSort
 
 root = Tk()
 
