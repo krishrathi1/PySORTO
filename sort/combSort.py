@@ -1,3 +1,4 @@
+import time 
 def combSort(data, drawData, timeTick):
     n = len(data)
     gap = n
