@@ -1,3 +1,4 @@
+import time 
 def countingSort(data, drawData, timeTick):
     max_val = max(data)
     m = max_val + 1
