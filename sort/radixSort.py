@@ -1,3 +1,4 @@
+import time 
 def countingSort(data, exp, drawData, timeTick):
     n = len(data)
     output = [0] * n
