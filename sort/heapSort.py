@@ -1,3 +1,4 @@
+import time 
 def heapSort(data, drawData, timeTick):
     n = len(data)
 
