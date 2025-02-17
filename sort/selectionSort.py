@@ -1,3 +1,4 @@
+import time 
 def selectionSort(data, drawData, timeTick):
     for i in range(len(data)):
         min_idx = i
