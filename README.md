@@ -10,7 +10,7 @@ A sorting visualiser in Python
 - [x] Visualise like animation,frame by frame
 - [ ] Distribute installers
 - [ ] Screnshot option
-- [ ] History of values min,max and size
+- [ ] History of values min,max and size 
 - [ ] Menu bar
 
 ### Algorithms 
