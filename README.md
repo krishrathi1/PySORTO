@@ -14,7 +14,7 @@ A sorting visualiser in Python
 - [ ] Menu bar
   
 ### Algorithms  
-bubbleSort.py
+bubbleSort.py 
 bucketSortpy 
 cocktailShakerSort.py 
 combsort.py
