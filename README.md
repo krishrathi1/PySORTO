@@ -5,7 +5,7 @@ A sorting visualiser in Python
 ## Todo
 
 ### UI/UX
-
+ 
 - [x] Time of execution
 - [x] Visualise like animation,frame by frame
 - [ ] Distribute installers
