@@ -15,7 +15,7 @@ A sorting visualiser in Python
   
 ### Algorithms  
 bubbleSort.py
-bucketSortpy
+bucketSortpy 
 cocktailShakerSort.py 
 combsort.py
 countingSort.py
