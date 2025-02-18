@@ -12,7 +12,7 @@ A sorting visualiser in Python
 - [ ] Screnshot option
 - [ ] History of values min,max and size 
 - [ ] Menu bar
-  
+   
 ### Algorithms  
 bubbleSort.py 
 bucketSortpy 
